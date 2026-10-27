@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Assignment2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textColorHint">@color/text_secondary</item>
+    </style>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tagline">سب کچھ ایک جگہ</string>
+    <string name="login">لاگ ان</string>
+    <string name="register">رجسٹر</string>
+    <string name="dashboard">ڈیش بورڈ</string>
+    <string name="logout">لاگ آؤٹ</string>
+</resources>
